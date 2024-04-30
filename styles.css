@@ -65,7 +65,7 @@ table {
 }
 
 
-@media (min-width:456px){
+@media (min-width:456px) {
     body{
         display: grid;
         place-items: center;
@@ -83,5 +83,4 @@ table {
     .image-omelette{
         padding: 25px;
     }
-
 }
